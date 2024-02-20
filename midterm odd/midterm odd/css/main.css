@@ -3,13 +3,12 @@ body{
     max-width: 1200px;
     margin: auto;
     border: 2px solid blue;
-    font-size: Arial normal;           
+    font: 15PX Arial normal small-caps;            
 }
 
 .structural{
     margin: 10px;
-    padding: 10px;
-     
+    padding: 10px;  
 }
 
 h1{
@@ -45,12 +44,12 @@ figure{
 
 #image1{
     float: left;
-    margin: 20px;
+    margin: 15px;
 }
 
 #image2{
     float: right;
-    margin: 20px;
+    margin: 15px;
 }
 
 section{
@@ -86,7 +85,7 @@ footer{
 }
 
 section {
-    margin: 21px;
+    margin: 20px;
     color: brown;
 }
 
